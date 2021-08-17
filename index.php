@@ -163,7 +163,7 @@ class Delivery{
 
 		}
 
-		var_dump($DeliveryData);
+		echo json_encode($DeliveryData);
 	}
 
 	private function getDeliveryFactory(DeliveryFactory $factory)
