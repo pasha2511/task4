@@ -1,0 +1,16 @@
+{
+    "name": "task4/task4",
+    "description": "Тестовое задание",
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "require-dev": {
+
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "task4\\task4\\": "src/"
+        }
+    }
+}
